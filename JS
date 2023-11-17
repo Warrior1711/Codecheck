@@ -1,0 +1,6 @@
+input.WhenGet(Test) Add local test
+Test = Varible
+Local.GetService{Varible}
+------------------------------
+This is a test for roblox studio to see if the Varible script still works
+------------------------------
