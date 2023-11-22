@@ -1,4 +1,4 @@
-input.WhenGet(Test) Add local test
+input.WhenGet(Test) Add.Varible
 Test = Varible
 Local.GetService{Varible}
 ------------------------------
